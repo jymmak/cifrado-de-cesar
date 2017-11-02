@@ -1,5 +1,5 @@
-Pseudocódigo
-                  ---------------
+# Cifrado Cesar
+## Pseudocodigo
 
 1.-  Pedimos al usuario la accion que desea realizar usamos la funcion welcome.
       function welcome(option)
@@ -90,8 +90,9 @@ Pseudocódigo
 22.- Finalmente llamamos a la funcion
      welcome();
 
+## Diagrama de flujo
+![](assets/images/one.png)
+![](assets/images/two.png)
 
 
 
-https://subefotos.com/ver/?588b638d8edc8d740e79f0eb69e2cf06o.jpg#codigos
-https://subefotos.com/ver/?b92403df78a0adf6fb9ebf4842a4f013o.jpg#codigos
